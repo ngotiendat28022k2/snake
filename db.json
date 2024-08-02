@@ -1,0 +1,52 @@
+{
+    "products": [{
+            "category": "Lolito",
+            "name": "Luxury big sofa",
+            "price": 7000000,
+            "img": "Asgaard sofa 3.svg",
+            "imgCategory": [
+                "https://picsum.photos/id/10/300/300",
+                "https://picsum.photos/id/11/300/300",
+                "https://picsum.photos/id/12/300/300"
+            ],
+            "description": "Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero with a well-balanced audio which boasts a clear midrange and extended highs for a sound."
+
+        },
+        {
+            "category": "Syltherine",
+            "name": "Stylish cafe chair",
+            "price": 3500000,
+            "img": "elegant-coffee-table.svg",
+            "imgCategory": [
+                "https://picsum.photos/id/13/300/300",
+                "https://picsum.photos/id/14/300/300",
+                "https://picsum.photos/id/15/300/300"
+            ],
+            "description": " Setting the bar as one of the most luxurious sofas in its class, the Luxury Big Sofa combines comfort and elegance seamlessly. Crafted with premium materials and featuring a spacious design, this sofa provides the perfect centerpiece for any living room. Whether you're entertaining guests or simply relaxing after a long day, the Luxury Big Sofa offers unparalleled comfort and style."
+        },
+        {
+            "category": "Lolito",
+            "name": "Modern Lounge Chair",
+            "price": 4500000,
+            "img": "modern-lounge-chair.svg",
+            "imgCategory": [
+                "https://picsum.photos/id/15/300/300",
+                "https://picsum.photos/id/16/300/300",
+                "https://picsum.photos/id/17/300/300"
+            ],
+            "description": "With its elegant and unique design, this decorative lamp not only illuminates your space but also serves as a piece of interior design art. The perfect blend of high-quality materials and warm light creates a unique focal point in any room."
+        },
+        {
+            "category": "Lolito",
+            "name": "Stylish Floor Lamp",
+            "price": 2500000,
+            "img": "stylish-floor-lamp.svg",
+            "imgCategory": [
+                "https://picsum.photos/id/18/300/300",
+                "https://picsum.photos/id/19/300/300",
+                "https://picsum.photos/id/20/300/300"
+            ],
+            "description": "With its modern design and comfort, this lounge chair will provide you with both comfort and style in any space. Premium materials combined with a unique design create a product that not only enhances the beauty of your space but also provides a comfortable seating experience"
+        }
+    ]
+}
